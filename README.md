@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DaveITCool
+- 👀 I’m interested in Web Developement
+- 🌱 I’m currently learning HTML&CSS&JS
